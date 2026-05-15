@@ -1,0 +1,1 @@
+I want to make a bill splitting program using the method I use in real life to split bills with my friends
